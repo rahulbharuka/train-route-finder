@@ -1,0 +1,9 @@
+TrainLine,NonPeakHoursCost,PeakHoursCost,NightHoursCost
+NS,10,12,10
+NE,10,12,10
+DT,8,10,-1
+CG,10,10,-1
+CE,10,10,-1
+TE,8,10,10
+EW,10,10,10
+CC,10,10,10
